@@ -1,0 +1,13 @@
+#Github account 1
+Host github.com:{githubAccount1}
+	Hostname github.com
+	User git
+	IdentityFile {pathToSSHPublicKeyFile1}
+	IdentitiesOnly yes
+
+#Github account 2
+Host github.com:{githubAccount2}
+	Hostname github.com
+	User git 
+	IdentityFile {pathToSSHPublicKeyFile2}
+	#IdentitiesOnly yes
