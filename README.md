@@ -5,3 +5,4 @@ In this repository I will store the principal configuration files for my most us
 ## Configurations
 
 * [Vim](/vim)
+* [SSH](/ssh)
